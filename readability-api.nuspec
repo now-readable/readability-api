@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<package> 
+  <metadata> 
+    <id>now-readable-readability-api</id> 
+    <version>1.0.1</version> 
+    <authors>Chuma Nnaji</authors> 
+    <owners>Chuma Nnaji</owners>
+    <description>A readabilty API for Windows Phone.</description> 
+    <projectUrl>http://www.now-readable.com/</projectUrl>
+    <licenseUrl>http://www.opensource.org/licenses/mit-license.php</licenseUrl>
+    <tags>now readable now-readable readability api windowsphone</tags>
+    <language>en-US</language> 
+  </metadata> 
+</package>
